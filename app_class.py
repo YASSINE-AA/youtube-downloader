@@ -1,6 +1,7 @@
 from PySide2.QtWidgets import QFileDialog, QMainWindow, QLabel, QPushButton, QMenuBar, QLineEdit, QComboBox
 from PySide2.QtGui import QFont, QPainter, QPolygon, QBrush, QColor, Qt, QPixmap
 from pytube import YouTube
+# Author Yassine Ahmed Ali
 
 
 class MainWindow(QMainWindow):
